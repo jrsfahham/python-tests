@@ -1,0 +1,72 @@
+[
+    {
+        "name": "backup",
+        "creation_date": "2022-09-26T18:31:00+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "cybersec",
+        "creation_date": "2022-07-06T15:19:41+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "devsecops",
+        "creation_date": "2023-03-03T17:11:14+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "k8s",
+        "creation_date": "2021-08-19T19:03:14+00:00",
+        "compliance": "no"
+    },
+    {
+        "name": "templates",
+        "creation_date": "2022-07-15T01:00:10+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "network",
+        "creation_date": "2022-04-07T18:01:57+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "osm",
+        "creation_date": "2022-08-04T17:57:14+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "imagebuilder",
+        "creation_date": "2022-08-13T03:50:10+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "flows",
+        "creation_date": "2023-01-02T18:08:54+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "logs",
+        "creation_date": "2022-01-11T17:36:26+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "nuke",
+        "creation_date": "2022-03-17T18:24:07+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "policy-teste",
+        "creation_date": "2022-10-26T17:23:16+00:00",
+        "compliance": "no"
+    },
+    {
+        "name": "pre-token",
+        "creation_date": "2021-05-26T15:11:55+00:00",
+        "compliance": "yes"
+    },
+    {
+        "name": "storage-prod",
+        "creation_date": "2021-05-18T17:56:29+00:00",
+        "compliance": "yes"
+    }
+]
